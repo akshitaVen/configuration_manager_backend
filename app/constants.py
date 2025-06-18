@@ -1,0 +1,2 @@
+CLOUD_DEV_COUCH_DB_SERVER_BASE_URL = "http://admin:GMR123@34.220.123.218:5984/"
+LOCAL_COUCH_DB_SERVER_BASE_URL = "http://admin:changeme@localhost:5984/"
